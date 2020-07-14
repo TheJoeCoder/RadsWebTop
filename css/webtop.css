@@ -1,0 +1,35 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.webtop {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.webtop-desktop {
+  width: 100%;
+  height: 90%;
+  display: block;
+}
+.webtop-panel{
+  width: 100%;
+  height: 10%;
+  display: block;
+}
+.webtop-container {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.webtop-container-other {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.webtop-form {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
